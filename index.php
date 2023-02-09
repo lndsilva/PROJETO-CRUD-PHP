@@ -19,7 +19,7 @@
 					<th>E-mail</th>
 					<th>Idade</th>
 				</tr>				
-			</thead>
+			</	>
 			
 			<tbody>
 				<?php 

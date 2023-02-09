@@ -13,8 +13,6 @@
 
 		$dados = mysqli_fetch_array($resultado);
 
-
-
 	}
 
 ?>
